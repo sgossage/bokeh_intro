@@ -1,0 +1,1 @@
+This is a brief introduction to writing a Bokeh app. An example of creating a sine wave with a slider to tamper with its phase is walked through.
